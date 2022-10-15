@@ -2,10 +2,12 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./Home.css";
 import homeAnime from "./../assets/home_anime.gif";
+// import Model from "./Model";
 
 const Home = () => {
   return (
     <div className="home-container">
+      {/* <Model /> */}
       <div className="header-text">
         <h1>Welcome to my portfolio!</h1>
         <p>This is Gokulraj, a front-end developer</p>
