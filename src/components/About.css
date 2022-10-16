@@ -85,4 +85,13 @@
   .vector-frame {
     width: 90%;
   }
+  .about-main-left {
+    width: 100%;
+  }
+  .download-btn {
+    width: auto;
+  }
+  .about-main-right {
+    width: 100%;
+  }
 }
