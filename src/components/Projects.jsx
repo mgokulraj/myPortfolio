@@ -15,20 +15,13 @@ const Projects = () => {
 
       <div className="project-cards-container">
         {projectsData.map(
-          ({
-            projectName,
-            projectDescription,
-            imageUrl,
-            videoUrl,
-            projectUrl,
-          }) => {
+          ({ projectName, projectDescription, imageUrl, projectUrl }) => {
             return (
               <ProjectCard
                 projectName={projectName}
                 projectDescription={projectDescription}
                 projectUrl={projectUrl}
                 imageUrl={imageUrl}
-                videoUrl={videoUrl}
               />
             );
           }

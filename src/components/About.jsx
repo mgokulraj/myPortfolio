@@ -4,13 +4,14 @@ import Header from "./Header";
 import aboutVector from "./../assets/about_vector.png";
 import Footer from "./Footer";
 import aboutAnime from "./../assets/about_anime.gif";
+import resume from "./../assets/Gokulraj.pdf";
 
 const About = () => {
   return (
     <div className="section-container">
       <Header
         heading="About Me."
-        details="I am a Front-end web developer | Technical Support Specialist"
+        details="Creative Front-end web developer | Technical Support Specialist | Infrastructure Engineer | Flexible and Hardworker"
       />
 
       {/* ------------------------Main Content------------------------------------------ */}
@@ -18,43 +19,29 @@ const About = () => {
       <div className="about-main">
         <div className="about-main-left">
           {/* Sub section 1 */}
-          <h3 className="about-sub-head">Teacher</h3>
+          <h3 className="about-sub-head">Career Objective</h3>
           <p className="about-details">
-            Teaching is my passion, till now, I've taught thousands of students
-            about Programming and Web Development. Check out{" "}
-            <a
-              className="about-link-element"
-              href="http://theleanprogrammer.com/aam"
-            >
-              my free react courses!
-            </a>
+            " Enthusiastic individual with 8+ years of experience in an IT
+            infrastructure environment, changed my career as 'self-taught' web
+            developer with the help of online courses and building individual
+            projects seeking front-end developer role with 1+ years of
+            experience. "
           </p>
 
           {/* Sub section 2 */}
-          <h3 className="about-sub-head">Blogger</h3>
+          <h3 className="about-sub-head">My Services</h3>
           <p className="about-details">
-            I've been writing blogs from around 3 years now, and became
-            top-blogger on medium twice. Check out{" "}
-            <a
-              className="about-link-element"
-              href="https://madhavbahl.medium.com/"
-            >
-              my medium blogs today!
-            </a>
+            Develop a website for you using HTML, CSS, JavaScript, React.js,
+            tailwindcss and make the website responsive with all screens
+            compatibility.
           </p>
 
           {/* Sub section 3 */}
-          <h3 className="about-sub-head">Public Speaker</h3>
-          <p className="about-details">
-            Being a passionate public speaker, I've given talks at more than 75
-            events till now! Want me to speak in your event?{" "}
-            <a
-              className="about-link-element"
-              href="mailto:info@theleanprogrammer.com"
-            >
-              Email me the details!
+          <div className="download-btn">
+            <a className="link-text" href={resume} download>
+              Download Resume!
             </a>
-          </p>
+          </div>
         </div>
 
         <div className="about-main-right">
