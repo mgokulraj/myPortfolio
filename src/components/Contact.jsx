@@ -61,7 +61,7 @@ const Contact = () => {
         <a href="https://twitter.com/gokuldeveloper" className="social-icon">
           <img src={twitter} alt="social" />
         </a>
-        <a href="https://madhavbahl.tech" className="social-icon">
+        <a href="https://gokulraj.netlify.app/" className="social-icon">
           <img src={web} alt="social" />
         </a>
       </div>

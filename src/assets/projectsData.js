@@ -37,6 +37,6 @@ export const projectsData = [
       "As a front-end developer, you should definitely have your own portfolio website. There are endless benefits through this portfolio, here is mine",
     imageUrl:
       "https://raw.githubusercontent.com/mgokulraj/myPortfolio/master/src/assets/proj5.PNG",
-    projectUrl: "http://madhavbahl.tech/portfolio/",
+    projectUrl: "https://gokulraj.netlify.app/",
   },
 ];
