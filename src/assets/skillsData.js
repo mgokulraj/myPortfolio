@@ -16,20 +16,23 @@ export const skillList = [
     skillUrl: "https://madhavbahl.tech/portfolio-assets/react.png",
   },
   {
-    skillName: "Redux",
-    skillUrl: "https://madhavbahl.tech/portfolio-assets/redux.png",
+    skillName: "TailwindCSS",
+    skillUrl:
+      "https://raw.githubusercontent.com/mgokulraj/LogosAndVectors/main/logos-vectors/Tailwind-logo-new.png?token=GHSAT0AAAAAABZLJ3R4ROI7UOIPEY5WCFS6Y2L37YA",
   },
   {
     skillName: "Azure",
     skillUrl:
-      "https://raw.githubusercontent.com/mgokulraj/myPortfolio/master/src/assets/Azure-logo.png",
+      "https://raw.githubusercontent.com/mgokulraj/myPortfolio/master/src/assets/Azure_logo.png",
   },
   {
-    skillName: "TypeScript",
-    skillUrl: "https://madhavbahl.tech/portfolio-assets/ts.png",
+    skillName: "Windows",
+    skillUrl:
+      "https://raw.githubusercontent.com/mgokulraj/LogosAndVectors/main/logos-vectors/Windows-round.png?token=GHSAT0AAAAAABZLJ3R4RHDWNMSEWHU6EBPCY2L4IEA",
   },
   {
-    skillName: "C#",
-    skillUrl: "https://madhavbahl.tech/portfolio-assets/cs.png",
+    skillName: "VMWare",
+    skillUrl:
+      "https://raw.githubusercontent.com/mgokulraj/LogosAndVectors/main/logos-vectors/VMware-black.png?token=GHSAT0AAAAAABZLJ3R5CCXJS5OCIJQBQMCYY2L5EKQ",
   },
 ];
