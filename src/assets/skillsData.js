@@ -20,8 +20,9 @@ export const skillList = [
     skillUrl: "https://madhavbahl.tech/portfolio-assets/redux.png",
   },
   {
-    skillName: "NodeJS",
-    skillUrl: "https://madhavbahl.tech/portfolio-assets/node.png",
+    skillName: "Azure",
+    skillUrl:
+      "https://raw.githubusercontent.com/mgokulraj/myPortfolio/master/src/assets/Azure%20logo.png",
   },
   {
     skillName: "TypeScript",
