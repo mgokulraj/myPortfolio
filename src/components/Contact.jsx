@@ -53,7 +53,7 @@ const Contact = () => {
           <img src={github} alt="social" />
         </a>
         <a
-          href="https://www.linkedin.com/in/gokulraj-mariyappan-416a70161/"
+          href="https://www.linkedin.com/in/gokulraj-mariyappan/"
           className="social-icon"
         >
           <img src={linkedin} alt="social" />
