@@ -4,7 +4,7 @@ import Header from "./Header";
 import aboutVector from "./../assets/about_vector.png";
 import Footer from "./Footer";
 import aboutAnime from "./../assets/about_anime.gif";
-import resume from "./../assets/Gokulraj.pdf";
+import resume from "./../assets/Gokulraj.docx";
 
 const About = () => {
   return (
