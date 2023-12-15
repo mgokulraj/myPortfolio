@@ -10,7 +10,7 @@ const Home = () => {
       {/* <Model /> */}
       <div className="header-text">
         <h1>Welcome to my portfolio!</h1>
-        <p>This is Gokulraj, a front-end developer</p>
+        <p>I'm Gokulraj, an Azure Cloud Engineer</p>
       </div>
       <div className="head-btns">
         <Link to="/about" className="btn btn-white">

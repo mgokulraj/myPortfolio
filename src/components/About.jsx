@@ -11,7 +11,7 @@ const About = () => {
     <div className="section-container">
       <Header
         heading="About Me."
-        details="Creative Front-end web developer | Technical Support Specialist | Infrastructure Engineer | Flexible and Hardworker"
+        details="Cloud Infrastructure Enginner | Azure Devops Engineer | Technical Support Specialist | Flexible and Hardworker"
       />
 
       {/* ------------------------Main Content------------------------------------------ */}
@@ -21,11 +21,8 @@ const About = () => {
           {/* Sub section 1 */}
           <h3 className="about-sub-head">Career Objective</h3>
           <p className="about-details">
-            " Enthusiastic individual with 8+ years of experience in an IT
-            infrastructure environment, changed my career as 'self-taught' web
-            developer with the help of online courses and building individual
-            projects seeking front-end developer role with 1+ years of
-            experience. "
+            " Microsoft Certified Azure Administrator, Senior systems engineer with 6+ years of IT experience in implementation, migration, 
+            project and BAU support for Infrastructure solutions both on–prem and Azure cloud environment. "
           </p>
 
           {/* Sub section 2 */}
