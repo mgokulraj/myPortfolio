@@ -4,7 +4,7 @@ import Header from "./Header";
 import aboutVector from "./../assets/about_vector.png";
 import Footer from "./Footer";
 import aboutAnime from "./../assets/about_anime.gif";
-import resume from "./../assets/Gokulraj.docx";
+import resume from "./../assets/Gokulaj_Mariyappan.pdf";
 
 const About = () => {
   return (
@@ -28,7 +28,7 @@ const About = () => {
           {/* Sub section 2 */}
           <h3 className="about-sub-head">My Services</h3>
           <p className="about-details">
-            Develop a website for you using HTML, CSS, JavaScript, React.js,
+            My passion is to create website and work on UI based projects. Develop a website for you using HTML, CSS, JavaScript, React.js,
             tailwindcss and make the website responsive with all screens
             compatibility.
           </p>
