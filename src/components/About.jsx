@@ -29,8 +29,7 @@ const About = () => {
           <h3 className="about-sub-head">My Services</h3>
           <p className="about-details">
             My passion is to create website and work on UI based projects. Develop a website for you using HTML, CSS, JavaScript, React.js,
-            tailwindcss and make the website responsive with all screens
-            compatibility.
+            tailwindcss and make the website responsive with all screens compatibility.
           </p>
 
           {/* Sub section 3 */}
